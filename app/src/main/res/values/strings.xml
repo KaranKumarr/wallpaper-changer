@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WallpaperChanger</string>
+    <string name="search_wallpaper">Search Wallpaper</string>
+    <string name="search">Search</string>
+    <string name="set_as_wallpaper">Set Wallpaper</string>
+    <string name="next">Next</string>
+</resources>
